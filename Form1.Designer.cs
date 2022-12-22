@@ -216,7 +216,6 @@
             this.Input.Name = "Input";
             this.Input.Size = new System.Drawing.Size(209, 31);
             this.Input.TabIndex = 33;
-            this.Input.TextChanged += new System.EventHandler(this.Input_TextChanged);
             // 
             // Clear
             // 
@@ -243,7 +242,6 @@
             this.nums_before.Name = "nums_before";
             this.nums_before.Size = new System.Drawing.Size(209, 31);
             this.nums_before.TabIndex = 37;
-            this.nums_before.TextChanged += new System.EventHandler(this.nums_before_TextChanged);
             // 
             // Form1
             // 
